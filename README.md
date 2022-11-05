@@ -1,3 +1,4 @@
 # Search Drink Recipes App
 
-App that uses an api that allows you to know a wide variety of drinks and how to prepare them.
+Drink recipe search engine that provides a wide variety of the best drinks and how to prepare them.
+This app uses TheCocktailDB API.
